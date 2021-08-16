@@ -12,7 +12,10 @@ This tool can be help hyperspectral image analysis and calculations.
 - *Show mean score and standart deviation of model predicts*
 
 ## *Starting..*
-Open cmd and run 'python ./hsi_analyser.py' command for execute hsi_analyser.
+Open cmd and run command for execute hsi_analyser. 
+```
+python ./hsi_analyser.py
+```
 Read tutorial text and go step by step
-Click 'LOAD IMAGE' button and select hyperspectral data file (ex. 92AV3C.lan)
-Click 'SVM' button and select a ground truth image for teach SVM Model (ex. 92AV3GT.GIS)
+- Click 'LOAD IMAGE' button and select hyperspectral data file (ex. 92AV3C.lan)
+- Click 'SVM' button and select a ground truth image for teach SVM Model (ex. 92AV3GT.GIS)
